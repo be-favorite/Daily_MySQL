@@ -1,2 +1,1 @@
-# Daily_MySQL
-Daily study log for MySQL
+# Daily study log for MySQL
