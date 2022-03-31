@@ -1,4 +1,4 @@
-# Daily study log for SQL
+# Study notes for SQL
 MySQL 스터디 로그를 기록합니다.😀 
 
 마이크로소프트 Excel, Access에서 SQL, SAS에서 SQL 등을 통해 SQL을 활용해본 경험은 있습니다만, MySQL 이나 ORACLE과 같은 데이터를 다루는 기업에서는 사용하는 일반적인 SQL DB를 공부하고 다뤄본 경험은 없었습니다.
