@@ -5,13 +5,18 @@ SQL 스터디 노트입니다.😀
 
 그래서, 매일 조금의 시간을 투자해 MySQL을 바탕으로 SQL을 공부하고 만져보려고 합니다.
 
-## 참고 자료
-- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
-
+## 데이터베이스에 tidyverse 사용하기
+### 참고 자료
+- [Using the tidyverse with Databases - Part I](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
+- [Using the tidyverse with Databases - Part II](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
+- [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
+- [sql-in-rmarkdown](https://sciencificity-blog.netlify.app/posts/2021-03-27-sql-in-rmarkdown/)
 
 ## 강좌 수강
 - [인프런 <생활코딩 - MySQL 강좌>](https://www.inflearn.com/course/mysql-강좌#curriculum)
 
-
 ## 프로그래머스 - 코딩테스트 연습
 - [Source](https://programmers.co.kr/learn/challenges)
+
+## 읽어본 자료
+- [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
