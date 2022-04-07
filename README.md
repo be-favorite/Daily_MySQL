@@ -8,6 +8,7 @@ SQL 스터디 노트입니다.😀
 ## 데이터베이스에 tidyverse 사용하기
 ### 참고 자료
 - [Using the tidyverse with Databases - Part I](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
+  - [스터디 노트](https://www.taemobang.com/posts/2022-04-07-talk-with-database-using-tidyverse-part-i/) 
 - [Using the tidyverse with Databases - Part II](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
 - [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
 - [sql-in-rmarkdown](https://sciencificity-blog.netlify.app/posts/2021-03-27-sql-in-rmarkdown/)
