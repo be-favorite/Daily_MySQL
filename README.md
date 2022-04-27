@@ -12,6 +12,7 @@ SQL 스터디 노트입니다.😀
 - 🔗 [Using the tidyverse with Databases - Part II](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
 - 🔗 [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
 - 🔗 [sql-in-rmarkdown](https://sciencificity-blog.netlify.app/posts/2021-03-27-sql-in-rmarkdown/)
+- 🔗 [SQL cheatsheets](https://be-favorite.github.io/Study_SQL/SQL-cheat-sheet.pdf)
 
 ## 강좌 수강
 - 🔗 [인프런 <생활코딩 - MySQL 강좌>](https://www.inflearn.com/course/mysql-강좌#curriculum)
