@@ -17,9 +17,9 @@ SQL 스터디 노트입니다.😀
 ## 강좌 수강
 - 🔗 [인프런 <생활코딩 - MySQL 강좌>](https://www.inflearn.com/course/mysql-강좌#curriculum)
 
-## 프로그래머스 - 코딩테스트 연습
+## 프로그래머스
 - 🔗 [Source](https://programmers.co.kr/learn/challenges)
-  - 모든 문제 풀이 완료 (22. 04. 28)
+- MySQL 코딩테스트 (완료 22. 04. 28)
   - 🔗 [스터디 노트](https://resume-taemo.notion.site/SQL-cheatsheet-4cf0226f2de34e52906b05fb3f4b2030)
 
 ## 읽어본 자료
