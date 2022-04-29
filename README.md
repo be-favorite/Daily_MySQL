@@ -19,6 +19,8 @@ SQL 스터디 노트입니다.😀
 
 ## 프로그래머스 - 코딩테스트 연습
 - 🔗 [Source](https://programmers.co.kr/learn/challenges)
+  - 모든 문제 풀이 완료 (22. 04. 28)
+  - 🔗 [스터디 노트](https://resume-taemo.notion.site/SQL-cheatsheet-4cf0226f2de34e52906b05fb3f4b2030)
 
 ## 읽어본 자료
 - 🔗 [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
