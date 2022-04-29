@@ -22,4 +22,4 @@ SQL 스터디 노트입니다.😀
 ## 프로그래머스 MySQL 코딩 테스트
 - ✅ 완료 22. 04. 28
 - 🔗 [Source](https://programmers.co.kr/learn/challenges)
-- 🔗 [스터디 노트](https://resume-taemo.notion.site/SQL-cheatsheet-4cf0226f2de34e52906b05fb3f4b2030)
+- 🔗 [스터디 노트](https://resume-taemo.notion.site/SQL-cheatsheet-4cf0226f2de34e52906b05fb3f4b2030): 토글(▶️)을 누르세요.
