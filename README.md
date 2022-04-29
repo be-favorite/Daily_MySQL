@@ -21,6 +21,6 @@ SQL 스터디 노트입니다.😀
 - 🔗 [Source](https://programmers.co.kr/learn/challenges)
 - MySQL 코딩테스트 (완료 22. 04. 28)
   - 🔗 [스터디 노트](https://resume-taemo.notion.site/SQL-cheatsheet-4cf0226f2de34e52906b05fb3f4b2030)
-
+  
 ## 읽어본 자료
 - 🔗 [데이터 분석, 먹고 들어가기 위한 SQL 공부법(1편)](https://brunch.co.kr/@minu-log/5)
